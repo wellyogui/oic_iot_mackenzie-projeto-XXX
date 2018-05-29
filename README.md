@@ -1,14 +1,13 @@
 # Objetos Inteligentes Conectados 1 sem. 2018
 
-## Turma XXX
-## Projeto: "nome do projeto"
+## Turma 6J11
+## Projeto: "Estufa Arduino"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
+* Arthur Ferreira
+* Renato Souza
+* Victor Santiago
+* Wellington Yogui
 _______________________________________
 Obs:
 

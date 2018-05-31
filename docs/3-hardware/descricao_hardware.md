@@ -31,10 +31,10 @@ Deve conter:
 - 05 - Chave Táctil 6x6x4,3 mm;
 
 2)	Desenho Tinkercad ou Fritzing
-![alt text](https://imgur.com/DxutTwq)
+![alt text](https://i.imgur.com/DxutTwq.jpg)
 
 3)	Esquema eletrônico:
-![alt text](https://imgur.com/Y4DbRLz)
+![alt text](https://i.imgur.com/Y4DbRLz.jpg)
 
 4) Materiais para confecção de caixas e consoles iou arquivos para impressão 3D)
 - 02 placas de 25x25x2 cm de MDF
